@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/userpc/RiderProjects/Все работы/Все работы/Все работы.csproj": {}
+    "/home/userpc/RiderProjects/AllWorks/Все работы/Все работы.csproj": {}
   },
   "projects": {
-    "/home/userpc/RiderProjects/Все работы/Все работы/Все работы.csproj": {
+    "/home/userpc/RiderProjects/AllWorks/Все работы/Все работы.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/userpc/RiderProjects/Все работы/Все работы/Все работы.csproj",
+        "projectUniqueName": "/home/userpc/RiderProjects/AllWorks/Все работы/Все работы.csproj",
         "projectName": "Все работы",
-        "projectPath": "/home/userpc/RiderProjects/Все работы/Все работы/Все работы.csproj",
+        "projectPath": "/home/userpc/RiderProjects/AllWorks/Все работы/Все работы.csproj",
         "packagesPath": "/home/userpc/.nuget/packages/",
-        "outputPath": "/home/userpc/RiderProjects/Все работы/Все работы/obj/",
+        "outputPath": "/home/userpc/RiderProjects/AllWorks/Все работы/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/userpc/.nuget/NuGet/NuGet.Config"
